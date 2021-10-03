@@ -1,3 +1,7 @@
+# This work shop was demonstrated by Pasadena City College Workshop during the NASA Space Apps Challenge.
+
+---
+
 # Intro to Git/GitHub
 
 ### Add yourself!
